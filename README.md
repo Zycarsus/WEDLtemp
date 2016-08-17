@@ -5,7 +5,8 @@ W.E.D.L. (Windows Event Data Logger) is an application that uses windows provide
 In order to use WEDL, you must first run  WEDL.exe. Commands are passed to WEDL via a command.txt file within the directory of the application. Valid commands are: "start" "pause" "bookmark" "stop" "provider".
 
 ## start
-"start" will start the event logging cycle with your specified providers and formats (defaults are specified within the config.cfg).
+ start
+will start the event logging cycle with your specified providers and formats (defaults are specified within the config.cfg).
 *NOTE: A bookmark is place at the beginning of the events that you recorded by default.
 
 ## pause
