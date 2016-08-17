@@ -24,12 +24,17 @@ In order to use WEDL, you must first run  WEDL.exe. Commands are passed to WEDL 
 
 #Formats
 
- ##evtx
+## evtx
+ -Windows XML event log. A .evtx format allows you to open the event log within Windows Event Viewer
  
- ##text
+## txt
+-Text File, a .txt formatm can be opened with notepad or just about any text editor, very easy to read.
  
- ##csv
+## csv
+-Comma Serperated Values
  
- ##xml
+## xml
+-Extensible Markup language
  
- #json
+## json
+-Javascript Object Notation
